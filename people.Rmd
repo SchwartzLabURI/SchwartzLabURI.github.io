@@ -48,7 +48,7 @@ Alex Knyshov is a Postdoctoral Researcher working on examination of phylogenomic
 
 ## Graduate Students
 
-<img src="eren_crop.jpg" align="right" hspace="10" width="30%">
+<img src="eren.jpg" align="right" hspace="10" width="30%">
 <br><br>
 Eren Ada is a Ph.D. candidate in the Schwartz Lab. His dissertation focuses on utilizing large-scale genomic data in phylogenetic analyses. As the amount of DNA sequence data continues to increase, it has become more important to utilize this data in biological analyses, primarily in phylogenetics which is an essential tool to understand evolutionary history of traits, lineages, and the biodiversity in broader scale.
 
