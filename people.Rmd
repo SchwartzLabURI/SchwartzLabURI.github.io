@@ -58,7 +58,7 @@ Madi Maiorano
 
 Alex Knyshov was a Postdoctoral Researcher working on examination of phylogenomic datasets using a variety of computational tools, including machine learning. He is currently a researchers in biomedical genetics at Boston University.
 
-Dr. Tejashree Modak was a postdoctoral researcher in the lab who characterized copy number variation in the Eastern Oyster genome. She is currently a bioinformatics scientist with [Pillar Biosciences](https://pillar-biosciences.com/).
+Dr. Tejashree Modak was a postdoctoral researcher in the lab who characterized copy number variation in the Eastern Oyster genome. She is currently a Senior Clinical Bioinformatics Scientist with [Pillar Biosciences](https://pillar-biosciences.com/).
 
 Dr. Robert (Bob) Literman was an NSF Postdoctoral Fellow developing computational methods to identify and classify high-information and low-information subsets of phylogenomics data. He is currently an ORISE Fellow with the FDA.
 
@@ -66,7 +66,7 @@ Dr. Robert (Bob) Literman was an NSF Postdoctoral Fellow developing computationa
 
 ### Graduate Students
 
-Eren Ada completed his Ph.D. in the Schwartz Lab. His dissertation focused on utilizing large-scale genomic data in phylogenetic analyses. He investigated how using  different genomic data affected phylogenetic estimates for birds.
+Eren Ada completed his Ph.D. in the Schwartz Lab. His dissertation focused on utilizing large-scale genomic data in phylogenetic analyses. He investigated how using  different genomic data affected phylogenetic estimates for birds. He is currently a Senior Bioinformatician at Harvard Medical School.
 
 Yana Hrytseno was a PhD student in Computer Science working with Dr. Noah Daniels and in the Schwartz Lab. Yana's research interests include computational biology, population and cancer genomics. Her work is directed towards discovering broad-scale similarities between different types of cancer. She is currently a postdoctoral researcher at Harvard.
 
