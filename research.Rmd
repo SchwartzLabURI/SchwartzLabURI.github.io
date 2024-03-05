@@ -26,4 +26,16 @@ We have long expected that complete genomic information will provide us with the
 
 *This research was funded by an NSF postdoctoral fellowship to R. Schwartz.*
 
+<hr>
+
 ## <font color='#3498DB'> Copy number variation in genomes </font>
+
+### Related publications
+
+[Modak, T., R. Literman, J. Puritz, K. Johnson, E. Roberts, D. Proestou, X. Guo, M. Gomez-Chiarri, and R.S. Schwartz. Exceptional genome wide copy number variation in the eastern oyster (*Crassostrea virginica*). Proceedings of the Royal Society B. 376: 20200164](https://royalsocietypublishing-org.uri.idm.oclc.org/doi/full/10.1098/rstb.2020.0164)
+
+<hr>
+
+## <font color='#3498DB'> Evolution of plants in the Andes </font>
+
+*This research is funded by NSF grant DEB-2100217 to R. Schwartz*

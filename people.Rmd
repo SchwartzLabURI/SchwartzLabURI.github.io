@@ -10,9 +10,7 @@ knitr::opts_chunk$set(echo = FALSE)
 
 <img src="rachel.jpg" align="left" hspace="10" width="30%">
 
-Rachel Schwartz is an Assistant Professor at the University of Rhode Island. I run a dry lab focused on computational evolutionary genetics. My interest is in developing methods to understand evolution, with a particular focus on how we analyze large genomics datasets. I also have an interest in reproducible research and in teaching research skills to students and other researchers.
-
-<i class="fa fa-twitter fa-lg"></i> [rachelss](https://twitter.com/rachelss)
+Rachel Schwartz is an Associate Professor at the University of Rhode Island. I run a dry lab focused on computational evolutionary genetics. My interest is in developing methods to understand evolution, with a particular focus on how we analyze large genomics datasets. I also have an interest in reproducible research and in teaching research skills to students and other researchers.
 
 <i class="fa fa-github fa-lg"></i> [Github](https://github.com/rachelss)
 
@@ -22,6 +20,8 @@ Rachel Schwartz is an Assistant Professor at the University of Rhode Island. I r
 
 <i class="fa fa-envelope-o fa-lg"></i> [Email](mailto:rsschwartz@uri.edu)
 
+<i class="fa fa-twitter fa-lg"></i> [rachelss](https://twitter.com/rachelss)
+
 <i class="fa fa-file fa-lg"></i>[CV]()
 
 <br clear="all">
@@ -29,6 +29,32 @@ Rachel Schwartz is an Assistant Professor at the University of Rhode Island. I r
 <hr>
 
 ## Postdoctoral Researchers
+
+
+<br clear="all">
+Alexandra Walling 
+
+<hr>
+
+## Graduate Students
+
+
+Leann Biancani joined the lab in Fall 2021 as a PhD student in the BES program. Leann obtained her BS at Brown University and then continued at Brown as a Lab Manager and Research Assistant for David Rand. She then moved to the University of Maryland for her Masters. Before starting her PhD, Leann taught at the Wheeler School.
+
+<hr>
+## Undergraduates
+
+Noah Waite
+
+Madi Maiorano
+
+
+<hr>
+## Alumni
+
+### Postdocs 
+
+<br clear="all">
 
 <img src="Alex_photo.jpg" align="right" hspace="10" width="30%">
 <br><br>
@@ -43,10 +69,29 @@ Alex Knyshov is a Postdoctoral Researcher working on examination of phylogenomic
 <i class="fa fa-twitter fa-lg"></i> [Twitter](https://twitter.com/AlexKnyshov)
 
 <i class="fa fa-google fa-lg"></i> [Google Scholar](https://scholar.google.com/citations?user=UA5LFugAAAAJ)
+
+<img src="tejashree-120x160.jpg" align="left" hspace="10" width="30%">
+<br><br>
+[Dr. Tejashree Modak](https://tejashree1modak.github.io/) was a postdoctoral researcher in the lab who characterized copy number variation in the Eastern Oyster genome. She is currently a bioinformatics scientist with [Pillar Biosciences](https://pillar-biosciences.com/).
+
+<i class="fa fa-envelope-o fa-lg"></i> [Email](mailto:tejashree@uri.edu)
+
+<br clear="all">
+
+<img src="Bob_And_Rubin.jpg" align="right" hspace="10" width="30%">
+<br><br>
+[Dr. Robert (Bob) Literman](bob.html) was an NSF Postdoctoral Fellow developing computational methods to identify and classify high-information and low-information subsets of phylogenomics data. He is currently an ORISE Fellow with the FDA.
+
+<i class="fa fa-twitter fa-lg"></i> [BobLiterman](https://twitter.com/BobLiterman)
+
+<i class="fa fa-github fa-lg"></i> [Github](https://github.com/BobLiterman)
+
+<i class="fa fa-envelope-o fa-lg"></i> [Email](mailto:literman@uri.edu)
+
 <br clear="all">
 <hr>
 
-## Graduate Students
+### Graduate Students
 
 <img src="eren_crop.jpg" align="right" hspace="10" width="30%">
 <br><br>
@@ -72,47 +117,26 @@ Yana Hrytseno is a PhD student in Computer Science working with Dr. Noah Daniels
 
 <br clear="all">
 
-Leann Biancani will be joining the lab in Fall 2021 as a PhD student in the BES program. Leann got her BS at Brown University and then continued at Brown as a Lab Manager and Research Assistant for David Rand. She then moved to the University of Maryland for her Masters. Before starting her PhD, Leann taught at the Wheeler School.
+### Undergraduates
 
-<hr>
-## Undergraduates
+Elise VanLuinen was an undergraduate researcher in summer 2023. She sequenced and assembled the genome of the 
 
-Jewel Voyer (URI BIO '22) is using SISRS to examine relationships among the genus Ixodes.
+Brianna Smith (URI '25) examined the phylogeny of lampreys. Her research is published in Molecular Phylogenetics and Evolution.
+
+Robin Fidel (URI Biotechnology and Data Science '23) is researching copy number variation's contribution to the
+addition of genes to a gene family, specifically the IFI44 and GIMAP gene families in oysters. 
+
+Jewel Voyer (URI BIO and Neuroscience '22) is using SISRS to examine relationships among the genus Ixodes. She hopes to look at the relationships between gene family evolution and song in birds.
+
+Caleb Chapentier (SELU '22)
 
 Alyssa Hartmann (URI BIO '21) is identifying cellulose synthase genes across mosses to determine how this gene family arose.
 
-<hr>
-## Alumni
-
-### Postdocs 
-
-<br clear="all">
-<img src="tejashree-120x160.jpg" align="left" hspace="10" width="30%">
-<br><br>
-[Dr. Tejashree Modak](https://tejashree1modak.github.io/) was a postdoctoral researcher in the lab who characterized copy number variation in the Eastern Oyster genome. She is currently a bioinformatics scientist with [Pillar Biosciences](https://pillar-biosciences.com/).
-
-<i class="fa fa-envelope-o fa-lg"></i> [Email](mailto:tejashree@uri.edu)
-
-<br clear="all">
-
-<img src="Bob_And_Rubin.jpg" align="right" hspace="10" width="30%">
-<br><br>
-[Dr. Robert (Bob) Literman](bob.html) was an NSF Postdoctoral Fellow developing computational methods to identify and classify high-information and low-information subsets of phylogenomics data. He is currently an ORISE Fellow with the FDA.
-
-<i class="fa fa-twitter fa-lg"></i> [BobLiterman](https://twitter.com/BobLiterman)
-
-<i class="fa fa-github fa-lg"></i> [Github](https://github.com/BobLiterman)
-
-<i class="fa fa-envelope-o fa-lg"></i> [Email](mailto:literman@uri.edu)
-
-<br clear="all">
-<hr>
-
-### Undergraduates
+Keyline Moreno (URI '21)
 
 Caitlin Guccione (URI MS Applied Math '20 and CS '20) applied machine learning methods to SISRS output to categorize potentially misleading information in phylogenetic markers. She is currently a PhD student at UCSD in Bioinformatics.
 
-Alexandra (Lexi) Johnson (URI BIO '20) worked on using SISRS to examine relationships among the genus Solanum.
+Alexandra (Lexi) Johnson (URI BIO '20) worked on using SISRS to examine relationships among the genus Solanum. She is currently a graduate student at URI.
 
 Fidaa Janoudi (URI ESM '20) worked in the lab as an undergraduate to develop a website for undergraduates to understand the research done at URI. She is currently a Masters student at URI.
 
