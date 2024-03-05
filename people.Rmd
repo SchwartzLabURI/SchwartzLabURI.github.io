@@ -93,31 +93,30 @@ Alex Knyshov is a Postdoctoral Researcher working on examination of phylogenomic
 
 ### Graduate Students
 
-<img src="eren_crop.jpg" align="right" hspace="10" width="30%">
+<img src="eren.jpg" align="right" hspace="10" width="30%">
 <br><br>
-[Eren Ada](eren.html) is a PhD student in the Schwartz Lab whose research interests include phylogenomics, bioinformatics, and genomics.
+Eren Ada is a Ph.D. candidate in the Schwartz Lab. His dissertation focuses on utilizing large-scale genomic data in phylogenetic analyses. As the amount of DNA sequence data continues to increase, it has become more important to utilize this data in biological analyses, primarily in phylogenetics which is an essential tool to understand evolutionary history of traits, lineages, and the biodiversity in broader scale.
 
-<i class="fa fa-twitter fa-lg"></i> [ErenAda](https://twitter.com/erenada)
+To effectively use large-scale genomic data, it is imperative to understand the characteristics of different types of sequence data (coding, noncoding, regulatory etc.) and the content of phylogenetic (dis)information they contain. He is primarily focusing on understanding how using the different type of informative sequence data manifest in phylogenetic outcomes such as contradicted relationships in phylogenies.
 
-<i class="fa fa-github fa-lg"></i> [Github](https://github.com/erenada)
+He also investigates how using these different genomic data affects phylogenetic estimates of diversification rates by means of molecular dating. He uses birds as model organisms in his studies, mainly because they are the one of the most phylogenetically studied group, secondly his love for birds.
 
-<i class="fa fa-google fa-lg"></i> [Google Scholar](https://scholar.google.com/citations?user=MNRPBIkAAAAJ&hl=en)
-
-<i class="fa fa-envelope-o fa-lg"></i> [Email](mailto:erenada@uri.edu)
-
-<i class="fas fa-browser fa-lg"></i> [Website](https://erenada.github.io/)
+When he is away from computer screen, he spends as much possible time in nature, most often bird-watching, swimming with the sunrise, hiking, or meditating. He wants to continue his career in bioinformatics, mainly through developing methods and tools for genomic analyses to improve our understanding of biological diversity in every level.
 
 <br clear="all">
 
 Yana Hrytseno is a PhD student in Computer Science working with Dr. Noah Daniels and in the Schwartz Lab. Yana's research interests include computational biology, population and cancer genomics. Her work is directed towards discovering broad-scale similarities between different types of cancer.
 
-<i class="fa fa-github fa-lg"></i> [Github](https://github.com/YanaHrytsenko)
-
-<i class="fa fa-envelope-o fa-lg"></i> [Email](mailto:yana_hrytsenko@my.uri.edu)
-
 <br clear="all">
 
-### Undergraduates
+## Alumni
+
+### Postdocs
+
+<br clear="all">
+<img src="tejashree-120x160.jpg" align="left" hspace="10" width="30%">
+<br><br>
+[Dr. Tejashree Modak](https://tejashree1modak.github.io/) was a postdoctoral researcher in the lab who characterized copy number variation in the Eastern Oyster genome. She is currently a bioinformatics scientist with [Pillar Biosciences](https://pillar-biosciences.com/).
 
 Elise VanLuinen was an undergraduate researcher in summer 2023. She sequenced and assembled the genome of the 
 
@@ -151,4 +150,3 @@ AY Akintomide (URI CMB '20)
 Nicholas Barone (URI Kinesiology '19) is currently a Medical Scribe.
 
 Talia Santos (URI BIO '18)
-
