@@ -80,27 +80,27 @@ Brianna Smith (URI '25) examined the phylogeny of lampreys. Her research is publ
 Robin Fidel (URI Biotechnology and Data Science '23) is researching copy number variation's contribution to the
 addition of genes to a gene family, specifically the IFI44 and GIMAP gene families in oysters. 
 
-Jewel Voyer (URI BIO and Neuroscience '22) is using SISRS to examine relationships among the genus Ixodes. She hopes to look at the relationships between gene family evolution and song in birds.
+Jewel Voyer (URI BIO and Neuroscience '22) used SISRS to examine relationships among the genus Ixodes, as well as the relationships between gene family evolution and song in birds. She is currently a research technician at Harvard Medical/Boston Children's Hospital.
 
-Caleb Chapentier (SELU '22)
+Caleb Chapentier (SELU '22) is currently at PhD student at Virginia Tech.
 
-Alyssa Hartmann (URI BIO '21) is identifying cellulose synthase genes across mosses to determine how this gene family arose.
+Alyssa Hartmann (URI BIO '21) identified cellulose synthase genes across mosses to determine how this gene family arose. She is currently studying material science at the Fashion Institute.
 
-Keyline Moreno (URI '21)
+Keyline Moreno (URI '21) is a Research Assistant at Women & Infants Hospital.
 
 Caitlin Guccione (URI MS Applied Math '20 and CS '20) applied machine learning methods to SISRS output to categorize potentially misleading information in phylogenetic markers. She is currently a PhD student at UCSD in Bioinformatics.
 
 Alexandra (Lexi) Johnson (URI BIO '20) worked on using SISRS to examine relationships among the genus Solanum. She is currently a graduate student at URI.
 
-Fidaa Janoudi (URI ESM '20) worked in the lab as an undergraduate to develop a website for undergraduates to understand the research done at URI. She is currently a Masters student at URI.
+Fidaa Janoudi (URI ESM '20) worked in the lab as an undergraduate to develop a website for undergraduates to understand the research done at URI. She completed a Masters at URI and is now works in GIS.
 
 Tiantian Gousie (URI BIO '20) was an undergraduate in the lab who used SISRS to examine how different datasets result in different phylogenies in birds. She is currently a Research Assistant at Salve Regina University.
 
-Devin McConnell (URI CS '19) worked on updating and documenting SISRS code. He is currently a PhD student at UConn in CS.
+Devin McConnell (URI CS '19) worked on updating and documenting SISRS code. He completed a MS in Computer Science at UConn before moving into the field of nursing.
 
-Baizat Ibrahim (URI CMB '19) is currently in a post-baccalaureate pre-medical program.
+Baizat Ibrahim (URI CMB '19) is currently a Senior Clinical Research Assistant at Women & Infants Hospital.
 
-AY Akintomide (URI CMB '20)
+AY Akintomide (URI CMB '20) works at AmGen.
 
 Nicholas Barone (URI Kinesiology '19) is currently a Medical Scribe.
 
