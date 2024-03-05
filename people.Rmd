@@ -56,67 +56,22 @@ Madi Maiorano
 
 <br clear="all">
 
-<img src="Alex_photo.jpg" align="right" hspace="10" width="30%">
-<br><br>
-Alex Knyshov is a Postdoctoral Researcher working on examination of phylogenomic datasets using a variety of computational tools, including machine learning.
+Alex Knyshov was a Postdoctoral Researcher working on examination of phylogenomic datasets using a variety of computational tools, including machine learning. He is currently a researchers in biomedical genetics at Boston University.
 
-<i class="fa fa-envelope-o fa-lg"></i> [Email](aknyshov@uri.edu)
+Dr. Tejashree Modak was a postdoctoral researcher in the lab who characterized copy number variation in the Eastern Oyster genome. She is currently a bioinformatics scientist with [Pillar Biosciences](https://pillar-biosciences.com/).
 
-<i class="fas fa-browser fa-lg"></i> [Website](https://alexknyshov.github.io)
+Dr. Robert (Bob) Literman was an NSF Postdoctoral Fellow developing computational methods to identify and classify high-information and low-information subsets of phylogenomics data. He is currently an ORISE Fellow with the FDA.
 
-<i class="fa fa-github fa-lg"></i> [Github](https://github.com/AlexKnyshov)
-
-<i class="fa fa-twitter fa-lg"></i> [Twitter](https://twitter.com/AlexKnyshov)
-
-<i class="fa fa-google fa-lg"></i> [Google Scholar](https://scholar.google.com/citations?user=UA5LFugAAAAJ)
-
-<img src="tejashree-120x160.jpg" align="left" hspace="10" width="30%">
-<br><br>
-[Dr. Tejashree Modak](https://tejashree1modak.github.io/) was a postdoctoral researcher in the lab who characterized copy number variation in the Eastern Oyster genome. She is currently a bioinformatics scientist with [Pillar Biosciences](https://pillar-biosciences.com/).
-
-<i class="fa fa-envelope-o fa-lg"></i> [Email](mailto:tejashree@uri.edu)
-
-<br clear="all">
-
-<img src="Bob_And_Rubin.jpg" align="right" hspace="10" width="30%">
-<br><br>
-[Dr. Robert (Bob) Literman](bob.html) was an NSF Postdoctoral Fellow developing computational methods to identify and classify high-information and low-information subsets of phylogenomics data. He is currently an ORISE Fellow with the FDA.
-
-<i class="fa fa-twitter fa-lg"></i> [BobLiterman](https://twitter.com/BobLiterman)
-
-<i class="fa fa-github fa-lg"></i> [Github](https://github.com/BobLiterman)
-
-<i class="fa fa-envelope-o fa-lg"></i> [Email](mailto:literman@uri.edu)
-
-<br clear="all">
 <hr>
 
 ### Graduate Students
 
-<img src="eren.jpg" align="right" hspace="10" width="30%">
-<br><br>
-Eren Ada is a Ph.D. candidate in the Schwartz Lab. His dissertation focuses on utilizing large-scale genomic data in phylogenetic analyses. As the amount of DNA sequence data continues to increase, it has become more important to utilize this data in biological analyses, primarily in phylogenetics which is an essential tool to understand evolutionary history of traits, lineages, and the biodiversity in broader scale.
+Eren Ada completed his Ph.D. in the Schwartz Lab. His dissertation focused on utilizing large-scale genomic data in phylogenetic analyses. He investigated how using  different genomic data affected phylogenetic estimates for birds.
 
-To effectively use large-scale genomic data, it is imperative to understand the characteristics of different types of sequence data (coding, noncoding, regulatory etc.) and the content of phylogenetic (dis)information they contain. He is primarily focusing on understanding how using the different type of informative sequence data manifest in phylogenetic outcomes such as contradicted relationships in phylogenies.
+Yana Hrytseno was a PhD student in Computer Science working with Dr. Noah Daniels and in the Schwartz Lab. Yana's research interests include computational biology, population and cancer genomics. Her work is directed towards discovering broad-scale similarities between different types of cancer. She is currently a postdoctoral researcher at Harvard.
 
-He also investigates how using these different genomic data affects phylogenetic estimates of diversification rates by means of molecular dating. He uses birds as model organisms in his studies, mainly because they are the one of the most phylogenetically studied group, secondly his love for birds.
+<hr>
 
-When he is away from computer screen, he spends as much possible time in nature, most often bird-watching, swimming with the sunrise, hiking, or meditating. He wants to continue his career in bioinformatics, mainly through developing methods and tools for genomic analyses to improve our understanding of biological diversity in every level.
-
-<br clear="all">
-
-Yana Hrytseno is a PhD student in Computer Science working with Dr. Noah Daniels and in the Schwartz Lab. Yana's research interests include computational biology, population and cancer genomics. Her work is directed towards discovering broad-scale similarities between different types of cancer.
-
-<br clear="all">
-
-## Alumni
-
-### Postdocs
-
-<br clear="all">
-<img src="tejashree-120x160.jpg" align="left" hspace="10" width="30%">
-<br><br>
-[Dr. Tejashree Modak](https://tejashree1modak.github.io/) was a postdoctoral researcher in the lab who characterized copy number variation in the Eastern Oyster genome. She is currently a bioinformatics scientist with [Pillar Biosciences](https://pillar-biosciences.com/).
 
 Elise VanLuinen was an undergraduate researcher in summer 2023. She sequenced and assembled the genome of the 
 
